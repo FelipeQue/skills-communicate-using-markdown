@@ -1,8 +1,15 @@
 # Header for this exercise
-
 #### With several types of headers, as instructed
 
 ###### Exercise completion is upon us.
+
+###### Some code:
+
+```java
+public static boolean areYouOk(){
+  return true;
+}
+```
 
 ###### Now an image:
 ![Image of Octoqueer](https://octodex.github.com/images/Octoqueer.png)
